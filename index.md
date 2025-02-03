@@ -7,10 +7,7 @@ title: Muhammad Bilal
   <img src="profile.jpeg" width="200" height="200" style="border-radius: 15px; object-fit: cover;" align="left" hspace="20">
   
   # Muhammad Bilal
-  AI Engineer at Smart IS, specializing in NLP, Computer Vision, and Knowledge Graphs.
-  Currently working on company's AI products which are designed to enhance warehouse operations.
-  Smart Warehouse Agent: A chatbot which utilizes an LLM to build proprietary MOCA commands (used within the organization for database query) from natural langaug , execute it and perform various tasks, and analytics with the data.
-  SMART RAG: A chatbot in which users can upload multiple documents and chat with it, primarily built for warehouse documents. Utilizes Advanced document chunking strategies such as semantic chunking and multiple retrieval mechanisms.
+  I am an AI Engineer and researcher, I like to build applications in the domain of AI and robotics. 
   • bilal001.w@gmail.com  
   • +92 328 5389492  
   • [LinkedIn](https://linkedin.com/in/mbilal-1608-pk)  
