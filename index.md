@@ -1,21 +1,14 @@
 ---
 layout: default
-title: Muhammad Bilal
+title: Muhammad Bilal     Email: bilal001.w@gmail.com      +92 328 5389492   [LinkedIn](https://linkedin.com/in/mbilal-1608-pk)     [GitHub](https://github.com/Bambokyo)
 ---
 
 <div class="profile-section">
   <img src="profile.jpeg" width="200" height="200" style="border-radius: 15px; object-fit: cover;" align="left" hspace="20">
   
- # Muhammad Bilal
-
-### AI Engineer | Researcher | Robotics Enthusiast
+ <h2> Muhammad Bilal <h2>
+<h3> AI Engineer | Researcher <h3>
 I am an AI Engineer and researcher passionate about building applications in AI and robotics. 
-
-📧 bilal001.w@gmail.com  
-📞 +92 328 5389492  
-🔗 [LinkedIn](https://linkedin.com/in/mbilal-1608-pk)  
-💻 [GitHub](https://github.com/Bambokyo)
-
 </div>
 
 
