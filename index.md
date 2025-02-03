@@ -3,7 +3,7 @@ layout: default
 title: Muhammad Bilal
 ---
 
-<img src="profile.jpg" width="200" style="border-radius: 10px;" align="left" hspace="20">
+<img src="profile.jpeg" width="200" style="border-radius: 10px;" align="left" hspace="20">
 
 # Muhammad Bilal
 I am an AI Engineer at Smart IS, specializing in NLP, Computer Vision, and Knowledge Graphs.
