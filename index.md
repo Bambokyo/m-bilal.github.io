@@ -7,7 +7,15 @@ layout: default
   <div>
     <h1 style="margin-bottom: 10px;">Muhammad Bilal</h1>
     <p style="font-size: 18px; margin: 0;">AI Engineer & Researcher passionate about building intelligent systems for AI and robotics.</p>
-    <p style="font-size: 16px; color: gray; margin: 5px 0 0;">Currently crafting AI products at Smart-IS International to enhance warehouse operations and supply chain management.</p>
+    <p style="font-size: 16px; color: gray; margin: 5px 0 10px;">Currently crafting AI products at Smart-IS International to enhance warehouse operations and supply chain management.</p>
+    <div style="display: flex; gap: 15px; align-items: center;">
+      <a href="Résumé_muhammad_bilal.pdf" download="Muhammad_Bilal_Resume.pdf" style="background: #667eea; color: white; padding: 8px 16px; border-radius: 8px; text-decoration: none; font-weight: 600; font-size: 14px; transition: all 0.3s ease;">📄 Download Resume</a>
+      <div style="display: flex; gap: 10px;">
+        <a href="mailto:bilal001.w@gmail.com" style="color: #667eea; text-decoration: none; font-size: 14px;">📧 Email</a>
+        <a href="https://github.com/Bambokyo" target="_blank" style="color: #667eea; text-decoration: none; font-size: 14px;">🔗 GitHub</a>
+        <a href="https://linkedin.com/in/mbilal-1608-pk/" target="_blank" style="color: #667eea; text-decoration: none; font-size: 14px;">💼 LinkedIn</a>
+      </div>
+    </div>
   </div>
 </div>
 
