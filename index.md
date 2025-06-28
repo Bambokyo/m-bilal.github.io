@@ -11,7 +11,112 @@ layout: default
   </div>
 </div>
 
--description">
+## About Me
+
+I'm an AI Engineer at Smart-IS International with a Bachelor's in Artificial Intelligence from FAST University. My work focuses on developing practical AI solutions that solve real-world problems, from warehouse automation to financial crime detection.
+
+### Current Role Highlights
+- **AI Agent Development**: Built intelligent warehouse assistants that understand natural language queries
+- **Anomaly Detection**: Developed TBML detection systems using advanced ML techniques
+- **Mentorship**: Guide interns and junior developers in ML fundamentals and best practices
+
+## Technical Skills
+
+<div class="skills-grid">
+  <div class="skill-category">
+    <h4>Programming Languages</h4>
+    <div class="skill-tags">
+      <span class="skill-tag">Python</span>
+      <span class="skill-tag">C++</span>
+      <span class="skill-tag">SQL</span>
+      <span class="skill-tag">SPARQL</span>
+      <span class="skill-tag">MATLAB</span>
+    </div>
+  </div>
+  
+  <div class="skill-category">
+    <h4>ML & AI Frameworks</h4>
+    <div class="skill-tags">
+      <span class="skill-tag">PyTorch</span>
+      <span class="skill-tag">TensorFlow</span>
+      <span class="skill-tag">HuggingFace</span>
+      <span class="skill-tag">Langchain</span>
+      <span class="skill-tag">OpenCV</span>
+    </div>
+  </div>
+  
+  <div class="skill-category">
+    <h4>Cloud & DevOps</h4>
+    <div class="skill-tags">
+      <span class="skill-tag">AWS</span>
+      <span class="skill-tag">Azure</span>
+      <span class="skill-tag">Docker</span>
+      <span class="skill-tag">Jenkins</span>
+      <span class="skill-tag">Git/GitHub</span>
+    </div>
+  </div>
+  
+  <div class="skill-category">
+    <h4>Specializations</h4>
+    <div class="skill-tags">
+      <span class="skill-tag">NLP</span>
+      <span class="skill-tag">Computer Vision</span>
+      <span class="skill-tag">Knowledge Graphs</span>
+      <span class="skill-tag">RAG Systems</span>
+      <span class="skill-tag">3D Processing</span>
+    </div>
+  </div>
+</div>
+
+## Featured Projects
+
+<div class="projects-grid">
+  <div class="project-card">
+    <div class="project-header">
+      <h3>Smart Warehouse Assistant</h3>
+      <span class="project-status professional">Professional Project</span>
+    </div>
+    <p class="project-description">
+      AI-powered warehouse management agent that processes natural language queries and replaces complex MOCA commands. 
+      Features multi-turn conversations, interactive visualizations, and cross-platform deployment.
+    </p>
+    <div class="project-tech">
+      <span class="tech-tag">NLP</span>
+      <span class="tech-tag">RAG</span>
+      <span class="tech-tag">Flask</span>
+      <span class="tech-tag">Azure</span>
+    </div>
+    <div class="project-impact">
+      <strong>Impact:</strong> Simplified warehouse operations for non-technical users
+    </div>
+  </div>
+
+  <div class="project-card">
+    <div class="project-header">
+      <h3>TBML Detection System</h3>
+      <span class="project-status professional">Professional Project</span>
+    </div>
+    <p class="project-description">
+      Advanced anomaly detection system for identifying Trade-Based Money Laundering using unsupervised learning. 
+      Combines multiple ML approaches with a hybrid voting system for robust detection.
+    </p>
+    <div class="project-tech">
+      <span class="tech-tag">FAISS</span>
+      <span class="tech-tag">Isolation Forest</span>
+      <span class="tech-tag">Autoencoders</span>
+      <span class="tech-tag">SVM</span>
+    </div>
+    <div class="project-impact">
+      <strong>Impact:</strong> Enhanced financial crime detection capabilities
+    </div>
+  </div>
+
+  <div class="project-card">
+    <div class="project-header">
+      <h3>PoseQuest - 3D Motion Retrieval</h3>
+      <span class="project-status academic">Final Year Project</span>
+    </div>
+    <p class="project-description">
       Novel approach to 3D human pose retrieval from large motion databases. Achieves sub-0.1 second retrieval 
       times for motion sequences of 40-70 frames using advanced alignment techniques.
     </p>
@@ -136,42 +241,6 @@ I'm always interested in discussing AI innovations, potential collaborations, or
 </div>
 
 <style>
-/* Profile Section */
-
-/* Buttons */
-.btn {
-  display: inline-block;
-  padding: 0.75rem 1.5rem;
-  border-radius: 8px;
-  text-decoration: none;
-  font-weight: 600;
-  transition: all 0.3s ease;
-  border: 2px solid transparent;
-}
-
-.btn-primary {
-  background: white;
-  color: #667eea;
-}
-
-.btn-primary:hover {
-  background: #f8f9fa;
-  transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
-}
-
-.btn-secondary {
-  background: transparent;
-  color: white;
-  border-color: white;
-}
-
-.btn-secondary:hover {
-  background: white;
-  color: #667eea;
-  transform: translateY(-2px);
-}
-
 /* Skills Grid */
 .skills-grid {
   display: grid;
